@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brian-ovita
-- 👀 I’m interested in data science, app development and web development using R, Python and Android Kotlin
-- 🌱 I’m currently learning SQL,CS50
+- 👀 I’m interested in data science, app development and web development using R, Python (django) and Kotlin (Android)
+- 🌱 I’m currently learning SQL,CS50, Android Associate Developer: Android Kotlin Path
 - 💞️ I’m looking to collaborate on machine learning and web development
 - 📫 How to reach me ovita.brian@gmail.com | +254768951264
 
